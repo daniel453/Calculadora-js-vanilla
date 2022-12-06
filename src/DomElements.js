@@ -1,0 +1,20 @@
+export const result$ = document.getElementById('result')
+
+export const btn_1$ = document.getElementById('1')
+export const btn_2$ = document.getElementById('2')
+export const btn_3$ = document.getElementById('3')
+export const btn_4$ = document.getElementById('4')
+export const btn_5$ = document.getElementById('5')
+export const btn_6$ = document.getElementById('6')
+export const btn_7$ = document.getElementById('7')
+export const btn_8$ = document.getElementById('8')
+export const btn_9$ = document.getElementById('9')
+export const btn_0$ = document.getElementById('0')
+
+export const mas$ = document.getElementById('+')
+export const menos$ = document.getElementById('-')
+export const multi$ = document.getElementById('x')
+export const divi$ = document.getElementById('/')
+export const clear$ = document.getElementById('c')
+export const igual$ = document.getElementById('=')
+
